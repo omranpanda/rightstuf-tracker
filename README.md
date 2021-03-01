@@ -16,6 +16,9 @@ This should only be needed to be done once.
 
 make sure to also add your email in the python files (both acp2 and force recheck) just do ctrl + f (coomand + f if on mac) and type email, you should find the places where you type in your email.
 
+### Try it out!
+Try using this link to make sure it works: https://www.rightstufanime.com/Black-Clover-Season-1-Part-1-Blu-ray-DVD
+
 ## Dependancies that are required to be installed
 
 Python 3.0 +
