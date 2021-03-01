@@ -14,11 +14,16 @@ before running make sure to clear deh dates.csv file and add the folowing to the
 so you would type this in the first line 20210520.
 This should only be needed to be done once.
 
+make sure to also add your email in the python files (both acp2 and force recheck) just do ctrl + f (coomand + f if on mac) and type email, you should find the places where you type in your email.
+
 ## Dependancies that are required to be installed
 
 Python 3.0 +
+
 matplotlib module 
+
 numpy module
+
 beautifulsoup4 module
 
 
